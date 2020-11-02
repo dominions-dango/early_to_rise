@@ -15,16 +15,16 @@ First turn began on September 3 2020.
 
 ![Players](../../images/tenders.png "Players")
 
-1. Lucienne d'Anwyl (Therodos)
-2. Kythira (Arcoscephale)
-3. 101 (Alchera)
-4. Dango (Yomi)
-5. Sturm (Ermor)
-6. Skipper (Sauromatia)
-7. Firekron (Albion)
-8. lourdes (Fomoria)
-9. DildoBaggins (Fennoscandia)
-10. Stehlen (Mictlan)
+* Lucienne d'Anwyl (Therodos)
+* Kythira (Arcoscephale)
+* 101 (Alchera)
+* Dango (Yomi)
+* Sturm (Ermor)
+* Skipper (Sauromatia)
+* Firekron (Albion)
+* lourdes (Fomoria)
+* DildoBaggins (Fennoscandia)
+* Stehlen (Mictlan)
 
 A total of 10 players are competing in this game. I have no idea how skilled they are.
 
