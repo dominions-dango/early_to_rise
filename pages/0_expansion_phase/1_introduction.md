@@ -1,13 +1,11 @@
 # Introduction
 
 ## Game Info
-The game was organized at the Legio Domini Discord server.
-EA game with mostly default configurations.
+The game was organized at the **Legio Domini** discord server. It's an **Early Age** game with mostly default configurations.
 10 level 2 thrones on the map, 10 ascension points to win.
 
-The game will run the ```Domimions Enhanced 171b.dm```.
-It is a large vanilla-themed content mod with several contributors. It adds 20+ new nations, and hundreds of new spells and units.
-It's probably very imbalanced and very _fun_.
+The game will run ```Domimions Enhanced 171b.dm```.
+It is a large vanilla-themed content mod with several contributors. It adds 20+ new nations, and hundreds of new spells and units. It's probably very imbalanced and very *fun*.
 
 First turn began on September 3 2020.
 
@@ -122,14 +120,40 @@ I initially considered using a similar build using the Idol of the Sun chassis, 
 
 ## Research Priorities
 
-Rush **Construction 6** for dai oni thugging gear + research boosters + clockwork smiths (spam armor of knights, girdle of might, fire in a jar).
+**Alteration 2**
 
-At least **Conjuration 4** for summoning Shikome.
+To unlock Stoneskin. This will increase a Dai Oni's protection, allowing them to attack independent provinces more safely.
 
-**Thaumathurgy 4** for site searching and Hitobashira.
+**Conjuration 3**
 
-**Enchantment 7** for combat spells, global enchantments, battlefield enchantments, and skellies.
+To unlock **Lesser Elementals** and **Summon Earthpower**. Lesser elementals can prove effective against early game aggression. Summon Earthpower will further buff Dai Oni protection and grant **Reinvigoration**.
 
-Later on, **Evocation 5** for access to spells such as Shadow Blast, and Earthquake.
+**Construction 6**
 
-**Alteration**/**Conjuration** for late game buffs and useful summons.
+Dai Oni equipment. You're looking for Girdle of Might, Armor of Knights, Vine Shield, and Brands.
+
+Early Construction will also offer research boosters.
+Yomi only has access to palisades until proper fortresses can be summoned later on. That means mage recruitment will be slow. And less mages means less research. Unlocking research boosters such as Owl Quill, Skull Mentor, and Lightless Lantern can help mitigate this problem.
+
+Clockwork Smith. These are summoned units with a forge bonus and Earth paths. Sometimes a Fire path on top of that.
+Give them a Dwarven hammer and they'll get up to forge bonus 3, allowing them to remove 60% of the cost on cheap 5 gem items such as Girdle of Might, Armor of Knights, and Fire in a Jar.
+
+**Conjuration 4**
+
+For summoning Shikome.
+
+**Thaumathurgy 4**
+
+Site searching and Hitobashira.
+
+**Enchantment 7**
+
+Combat spells, global enchantments, battlefield enchantments, and skellies.
+
+**Evocation 5**
+
+Aaccess to spells such as Shadow Blast, and Earthquake.
+
+**Alteration**/**Conjuration**
+
+Late game buffs and useful summons.
